@@ -1,7 +1,11 @@
 *.pyc
 *.sql
+*.zip
+Pipfile*
 
 # Directories #
 ###############
 docs/build/
-temp
+temp/
+.venv/
+src/reader/__pycache__/
