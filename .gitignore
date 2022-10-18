@@ -1,0 +1,7 @@
+*.pyc
+*.sql
+
+# Directories #
+###############
+docs/build/
+temp
