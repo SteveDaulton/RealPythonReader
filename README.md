@@ -1,1 +1,1 @@
-Packaging example from `realpython.com <https://realpython.com/pypi-publish-python-package/#get-to-know-python-packaging>`_
+Packaging example from [RealPython.com](https://realpython.com/pypi-publish-python-package/#get-to-know-python-packaging)
